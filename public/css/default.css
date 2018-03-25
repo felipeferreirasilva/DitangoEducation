@@ -1,0 +1,36 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	margin-top: 62px;
+}
+
+.removescroll{
+	overflow: hidden;
+}
+
+.logo{
+    width: 35px;
+}
+
+.navbar{
+	background-color: white!important;
+	
+}
+
+.row img{
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+.row button{
+	width: 100%;
+    height: 60px;
+}
+
+.bg-home{
+	height: 100vh;
+	background-image: url('/images/dtghero.png'), linear-gradient(#c9dbe9, #fff);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
